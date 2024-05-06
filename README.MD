@@ -11,13 +11,13 @@ A simple command-line calculator that performs basic arithmetic operations.
 ## 3. Number Guessing Game
 A simple number guessing game where the computer generates a random number, and the user has to guess it.
 
-## 5. Word Counter
+## 4. Word Counter
 A simple word counter that counts the occurrences of each word in a text.
 
-## 6. Rock, Paper, Scissors Game
+## 5. Rock, Paper, Scissors Game
 A simple rock, paper, scissors game where the user plays against the computer.
 
-## 8. Password Generator
+## 6. Password Generator
 A password generator that generates a strong password based on user-specified criteria.
 
 ## How to Use
