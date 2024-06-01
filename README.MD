@@ -20,6 +20,9 @@ A simple rock, paper, scissors game where the user plays against the computer.
 ## 6. Password Generator
 A password generator that generates a strong password based on user-specified criteria.
 
+## 7. Snake and Ladders
+A simple snake and ladders game made using python.
+
 ## How to Use
 1. Choose the project you want to run.
 2. Open the respective Python file in any Python IDE or text editor.
